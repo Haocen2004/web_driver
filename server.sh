@@ -1,3 +1,6 @@
 #!/bin/bash
-#yum install java screen -y 
-echo test
+yum install java screen -y 
+wget 
+unzip
+cd server
+java -
